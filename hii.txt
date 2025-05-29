@@ -1,0 +1,3 @@
+Hello! This is a test file created by Claude.
+Welcome to the Claudetest repository!
+This is the main file for our Git MCP demonstration.
